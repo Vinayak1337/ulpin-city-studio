@@ -1,0 +1,394 @@
+{
+  "at": "2026-09-17T21:14:38.169Z",
+  "touchMethod": "Chrome CDP emulation; not a physical phone",
+  "results": [
+    {
+      "name": "Held left drag continues through React updates",
+      "before": {
+        "position": [
+          -156.75359431284622,
+          260,
+          265.00542537788107
+        ],
+        "target": [
+          13.246405687153727,
+          0,
+          -19.994574622118833
+        ],
+        "zoom": 8.05,
+        "polar": 0.9062072767269507,
+        "azimuth": -0.5378355266934286,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "after": {
+        "position": [
+          -165.65555996104587,
+          260,
+          245.09690586019195
+        ],
+        "target": [
+          4.34444003895408,
+          0,
+          -39.90309413980793
+        ],
+        "zoom": 8.05,
+        "polar": 0.9062072767269507,
+        "azimuth": -0.5378355266934286,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "targetDistance": 21.808121005440483,
+      "zoomDelta": 0,
+      "passed": true
+    },
+    {
+      "name": "Repeated mouse drags and subsequent wheel zoom",
+      "before": {
+        "position": [
+          -156.77982815754262,
+          260,
+          265.04502363402673
+        ],
+        "target": [
+          13.220171842457304,
+          0,
+          -19.954976365973287
+        ],
+        "zoom": 8.05,
+        "polar": 0.9062072767269508,
+        "azimuth": -0.5378355266934285,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "after": {
+        "position": [
+          -174.42131556659047,
+          260.4813667701857,
+          226.04105960857922
+        ],
+        "target": [
+          -4.10657575531529,
+          0,
+          -59.486592427970464
+        ],
+        "zoom": 9.10456556329591,
+        "polar": 0.9062072767269508,
+        "azimuth": -0.5378355266934285,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "targetDistance": 43.1620765347321,
+      "zoomDelta": 1.0545655632959097,
+      "passed": true
+    },
+    {
+      "name": "Held right drag orbits continuously",
+      "before": {
+        "position": [
+          -156.77226136871028,
+          260,
+          265.03360206597773
+        ],
+        "target": [
+          13.227738631289666,
+          0,
+          -19.966397934022137
+        ],
+        "zoom": 8.05,
+        "polar": 0.9062072767269507,
+        "azimuth": -0.5378355266934286,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "after": {
+        "position": [
+          -172.4090464802625,
+          378.5006480500697,
+          -21.08149394978506
+        ],
+        "target": [
+          13.227738631289666,
+          0,
+          -19.966397934022137
+        ],
+        "zoom": 8.05,
+        "polar": 0.4559880279411639,
+        "azimuth": -1.5768031244431704,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "targetDistance": 0,
+      "zoomDelta": 0,
+      "passed": true
+    },
+    {
+      "name": "One-finger held pan",
+      "before": {
+        "position": [
+          -156.78052520791888,
+          260,
+          265.0460757855379
+        ],
+        "target": [
+          13.219474792081085,
+          0,
+          -19.95392421446202
+        ],
+        "zoom": 8.05,
+        "polar": 0.9062072767269507,
+        "azimuth": -0.5378355266934287,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "after": {
+        "position": [
+          -165.0999528903058,
+          260,
+          253.58935550911968
+        ],
+        "target": [
+          4.900047109694284,
+          3.612087286057535e-16,
+          -31.410644490880212
+        ],
+        "zoom": 8.05,
+        "polar": 0.9062072767269507,
+        "azimuth": -0.5378355266934289,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "targetDistance": 14.158718743394672,
+      "zoomDelta": 0,
+      "passed": true
+    },
+    {
+      "name": "Two-finger held pinch zooms",
+      "before": {
+        "position": [
+          -156.77997467418788,
+          260,
+          265.04524479122693
+        ],
+        "target": [
+          13.220025325812099,
+          0,
+          -19.954755208772973
+        ],
+        "zoom": 8.05,
+        "polar": 0.9062072767269507,
+        "azimuth": -0.5378355266934287,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "after": {
+        "position": [
+          -166.28839054848686,
+          265.54335365711245,
+          254.28903535367374
+        ],
+        "target": [
+          7.3444975812864755,
+          0,
+          -36.782329747705774
+        ],
+        "zoom": 17.638970588235292,
+        "polar": 0.9062072767269514,
+        "azimuth": -0.537864342958364,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "targetDistance": 17.82383491676328,
+      "zoomDelta": 9.588970588235291,
+      "passed": true
+    },
+    {
+      "name": "Cancellation followed by a fresh touch gesture",
+      "before": {
+        "position": [
+          -156.77836207403521,
+          260,
+          265.04281067778896
+        ],
+        "target": [
+          13.221637925964737,
+          0,
+          -19.957189322210922
+        ],
+        "zoom": 8.05,
+        "polar": 0.9062072767269507,
+        "azimuth": -0.5378355266934286,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "after": {
+        "position": [
+          -173.43918170608003,
+          260,
+          242.09912303635343
+        ],
+        "target": [
+          -3.4391817060800878,
+          7.233710907255759e-16,
+          -42.90087696364644
+        ],
+        "zoom": 8.05,
+        "polar": 0.9062072767269507,
+        "azimuth": -0.5378355266934286,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "targetDistance": 28.354818169039476,
+      "zoomDelta": 0,
+      "passed": true
+    },
+    {
+      "name": "Window blur cancels a held gesture without locking navigation",
+      "before": {
+        "position": [
+          -156.78102064130277,
+          260,
+          265.0468236095136
+        ],
+        "target": [
+          13.218979358697217,
+          0,
+          -19.953176390486373
+        ],
+        "zoom": 8.05,
+        "polar": 0.9062072767269508,
+        "azimuth": -0.5378355266934287,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "after": {
+        "position": [
+          -165.6822685391214,
+          260,
+          245.13990927787714
+        ],
+        "target": [
+          4.317731460878545,
+          0,
+          -39.86009072212274
+        ],
+        "zoom": 8.05,
+        "polar": 0.9062072767269507,
+        "azimuth": -0.5378355266934286,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "targetDistance": 21.806362657388114,
+      "zoomDelta": 0,
+      "passed": true
+    },
+    {
+      "name": "2D remains a top-down plan after property selection",
+      "before": {
+        "position": [
+          -156.78251016570658,
+          260,
+          265.04907194823653
+        ],
+        "target": [
+          13.217489834293241,
+          0,
+          -19.95092805176338
+        ],
+        "zoom": 8.05,
+        "polar": 0.9062072767269505,
+        "azimuth": -0.5378355266934284,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "after": {
+        "position": [
+          35.62786395215127,
+          549.999942201659,
+          -24.18634401758367
+        ],
+        "target": [
+          35.627863953123324,
+          0,
+          -24.187343986155668
+        ],
+        "zoom": 8.05,
+        "polar": 0.0000018181248674169362,
+        "azimuth": -9.720814348080317e-7,
+        "mode": "2d",
+        "selected": "BLD-0414",
+        "controlConnected": true
+      },
+      "targetDistance": 22.807281471387647,
+      "zoomDelta": 0,
+      "passed": true
+    },
+    {
+      "name": "Scale bar represents its labelled distance at multiple zooms",
+      "before": {
+        "position": [
+          -156.77949594603655,
+          260,
+          265.04452218269677
+        ],
+        "target": [
+          13.2205040539634,
+          0,
+          -19.955477817303244
+        ],
+        "zoom": 8.05,
+        "polar": 0.9062072767269508,
+        "azimuth": -0.5378355266934285,
+        "mode": "3d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "after": {
+        "position": [
+          13.220504053963396,
+          549.9999999999488,
+          -19.954477848626162
+        ],
+        "target": [
+          13.2205040539634,
+          0,
+          -19.955477817303244
+        ],
+        "zoom": 16.997120142114706,
+        "polar": 0.0000018181248674169362,
+        "azimuth": -3.5528249636460287e-12,
+        "mode": "2d",
+        "selected": "BLD-0413",
+        "controlConnected": true
+      },
+      "targetDistance": 0,
+      "zoomDelta": 8.947120142114706,
+      "passed": true
+    },
+    {
+      "name": "Mobile layer menu, unobstructed zoom, compact/expanded property sheet",
+      "mobile": {
+        "inspectorHeight": 69,
+        "zoomAccessible": true,
+        "documentWidth": 390
+      },
+      "passed": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,50 @@
+{
+  "at": "2026-09-17T21:15:14.917Z",
+  "results": [
+    {
+      "name": "Direct canvas selection and full identifier search agree",
+      "passed": true
+    },
+    {
+      "name": "Computed checks, finding filter and search recovery work",
+      "passed": true
+    },
+    {
+      "name": "Evidence Floor plans opens the requested floor plan",
+      "passed": true
+    },
+    {
+      "name": "Clicking Unit 101 opens its exact linked occupancy record",
+      "passed": true
+    },
+    {
+      "name": "Register preserves selected unit and links model, plan and table",
+      "passed": true
+    },
+    {
+      "name": "Modal focus stays inside, wraps and returns to its opener",
+      "passed": true
+    },
+    {
+      "name": "Map resumes working after closing its register",
+      "passed": true
+    },
+    {
+      "name": "Utility overlay distinguishes horizontal clearance and burial depth",
+      "passed": true
+    },
+    {
+      "name": "Aerial sheet and complete linked exports remain functional",
+      "passed": true
+    },
+    {
+      "name": "All-district view, close-up floor geometry and 1280px layout",
+      "passed": true
+    },
+    {
+      "name": "Mobile inspection and document entry points remain accessible",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

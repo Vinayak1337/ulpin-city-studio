@@ -1,0 +1,1522 @@
+[
+  {
+    "t": 3428,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 0
+  },
+  {
+    "t": 3428,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 3428,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 0
+  },
+  {
+    "t": 3428,
+    "op": "remove",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 0
+  },
+  {
+    "t": 3428,
+    "op": "remove",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 3428,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 0
+  },
+  {
+    "t": 3428,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 3428,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 0
+  },
+  {
+    "t": 3429,
+    "op": "event",
+    "type": "pointerdown",
+    "pointerType": "mouse",
+    "target": "CANVAS",
+    "buttons": 1
+  },
+  {
+    "t": 3429,
+    "op": "add",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 3429,
+    "op": "add",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 3617,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 3617,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 3617,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 3617,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 3617,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 3617,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 3617,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 3617,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 3629,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 3629,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 3629,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 3629,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 3629,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 3629,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 3629,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 3629,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 3808,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 3808,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 3808,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 3808,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 3808,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 3808,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 3808,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 3808,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 3819,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 3819,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 3819,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 3819,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 3819,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 3819,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 3819,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 3819,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4068,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4068,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4068,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4068,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 4068,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4068,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4068,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4068,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4070,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4070,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4070,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4070,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 4070,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4071,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4071,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4071,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4454,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4454,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4454,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4454,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 4454,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4454,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4454,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4454,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4493,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4493,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4493,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4493,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 4493,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4493,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4493,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4493,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4687,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4687,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4687,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4687,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 4687,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4688,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4688,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4688,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4706,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4706,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4706,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4706,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 4706,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4706,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4706,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4706,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4875,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4875,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4875,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4875,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 4875,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4876,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4876,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4876,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4889,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4889,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4889,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 4889,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 4889,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4889,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 4889,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 4889,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 5142,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 5142,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5142,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 5142,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 5142,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5142,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 5142,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5142,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 5156,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 5156,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5156,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 5156,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 5156,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5156,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 5156,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5156,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 5499,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 5499,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5499,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 5499,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 5499,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5499,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 5499,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5499,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 5529,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 5529,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5529,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 5529,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 5529,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5529,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 5529,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5529,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 5751,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 5751,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5751,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 5751,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 1
+  },
+  {
+    "t": 5751,
+    "op": "suppressed-removal-diagnostic-only",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5751,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 1
+  },
+  {
+    "t": 5751,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 1
+  },
+  {
+    "t": 5751,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 1
+  },
+  {
+    "t": 5752,
+    "op": "event",
+    "type": "pointerup",
+    "pointerType": "mouse",
+    "target": "CANVAS",
+    "buttons": 0
+  },
+  {
+    "t": 5752,
+    "op": "remove",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 0
+  },
+  {
+    "t": 5752,
+    "op": "remove",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 5768,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 0
+  },
+  {
+    "t": 5768,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 5768,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 0
+  },
+  {
+    "t": 5768,
+    "op": "remove",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 0
+  },
+  {
+    "t": 5769,
+    "op": "remove",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 5769,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 0
+  },
+  {
+    "t": 5769,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 5769,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 0
+  },
+  {
+    "t": 5946,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 0
+  },
+  {
+    "t": 5946,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 5946,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 0
+  },
+  {
+    "t": 5946,
+    "op": "remove",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 0
+  },
+  {
+    "t": 5946,
+    "op": "remove",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 5947,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 0
+  },
+  {
+    "t": 5947,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 5947,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 0
+  },
+  {
+    "t": 5960,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 0
+  },
+  {
+    "t": 5960,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 5960,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 0
+  },
+  {
+    "t": 5960,
+    "op": "remove",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 0
+  },
+  {
+    "t": 5960,
+    "op": "remove",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 5960,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 0
+  },
+  {
+    "t": 5960,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 5960,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 0
+  },
+  {
+    "t": 6289,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 0
+  },
+  {
+    "t": 6289,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 6289,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 0
+  },
+  {
+    "t": 6289,
+    "op": "remove",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 0
+  },
+  {
+    "t": 6289,
+    "op": "remove",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 6289,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 0
+  },
+  {
+    "t": 6289,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 6289,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 0
+  },
+  {
+    "t": 6312,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 0
+  },
+  {
+    "t": 6312,
+    "op": "remove",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 6312,
+    "op": "remove",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 0
+  },
+  {
+    "t": 6312,
+    "op": "remove",
+    "target": "document",
+    "type": "pointermove",
+    "fn": "onPointerMove",
+    "held": 0
+  },
+  {
+    "t": 6312,
+    "op": "remove",
+    "target": "document",
+    "type": "pointerup",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 6312,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointerdown",
+    "fn": "onPointerDown",
+    "held": 0
+  },
+  {
+    "t": 6312,
+    "op": "add",
+    "target": "DIV",
+    "type": "pointercancel",
+    "fn": "onPointerUp",
+    "held": 0
+  },
+  {
+    "t": 6312,
+    "op": "add",
+    "target": "DIV",
+    "type": "wheel",
+    "fn": "onMouseWheel",
+    "held": 0
+  }
+]

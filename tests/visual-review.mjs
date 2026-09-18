@@ -1,0 +1,13 @@
+import { chromium } from '@playwright/test';
+import fs from 'node:fs';
+fs.mkdirSync('qa',{recursive:true});
+const browser=await chromium.launch({channel:'chrome',headless:true});
+const page=await browser.newPage({viewport:{width:1680,height:1000},deviceScaleFactor:1});
+const errors=[];
+page.on('pageerror',e=>errors.push(e.message));
+page.on('console',m=>{if(m.type()==='error')errors.push(m.text());});
+await page.goto('http://127.0.0.1:5175',{waitUntil:'networkidle',timeout:60000});
+await page.waitForTimeout(4000);
+await page.screenshot({path:'qa/01-initial.png',fullPage:true});
+console.log(JSON.stringify({errors,renderer:await page.evaluate(()=>window.__CITY_RENDERER__),body:(await page.locator('body').innerText()).slice(0,1800)},null,2));
+await browser.close();

@@ -1,0 +1,12 @@
+﻿const fs=require('fs');let s=fs.readFileSync('src/scene/CityScene.tsx','utf8');s=s.replace("import FloorInterior from './FloorInterior';","import FloorInterior from './FloorInterior';\nimport { buildArchitecture } from './architecture';");const a=s.indexOf('function architecture():Parts {'),z=s.indexOf('const architectureData=architecture();',a);if(a<0||z<0)throw Error('Architecture boundaries');s=s.slice(0,a)+'const architectureData=buildArchitecture(district.buildings);'+s.slice(z+'const architectureData=architecture();'.length);
+s=s.replace('const shade=Math.round(135+r()*100+(128-y)*.18)','const shade=Math.round(205+r()*45+(128-y)*.1)');
+s=s.replace("['#677f43','#758c4b','#526d3d','#809451','#5f7840','#8c9f58']","['#819a5b','#77945a','#698653','#96a969','#749159','#879c60']");
+s=s.replace("c.fillStyle=kind==='grass'?'#9aa67e':'#737773'","c.fillStyle=kind==='grass'?'#9eab86':'#606a6b'");
+s=s.replace("size=3.1,color='#eeede2'","size=4.6,color='#f0f1e8'");
+s=s.replace("color=bad?'#d95e4e':'#2a826d'","color=bad?'#eb4a40':'#2a826d'");
+s=s.replace("opacity={bad?.22:.12}","opacity={bad?.34:.12}");s=s.replace('<Edges color={color} lineWidth={1.7}/>','<Edges color={color} lineWidth={2}/>');
+s=s.replace('zoom=6.1;}','zoom=8.05;}');
+s=s.replace("<ambientLight intensity={.65}/><hemisphereLight args={['#f7f8f2','#879175',1.05]}/>","<ambientLight intensity={.32}/><hemisphereLight args={['#e8f2f6','#b7b494',.85]}/>");
+s=s.replace('intensity={2.5} color="#fff9e9"','intensity={2.1} color="#fff8eb"');
+s=s.replace('zoom:6.1,near:.1','zoom:8.05,near:.1');
+fs.writeFileSync('src/scene/CityScene.tsx',s);

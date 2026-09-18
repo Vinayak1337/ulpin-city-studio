@@ -1,0 +1,23 @@
+{
+  "src\\App.tsx": "45d6d6d1844db30c85c115ae6428ba2179e248f2b851ae6c0edaf9f41368d163",
+  "src\\components\\inspection.css": "7652bdc729245459c313618fbd87b5232ddf5000862ccb7215d020b720a54081",
+  "src\\components\\Inspector.tsx": "65672c1681983d4f20aef43dc2169a2ba213957d15aa5275dbd101743e544f16",
+  "src\\components\\RecordModal.tsx": "73a35a1587fab6140a10850e945a7432979f147ca81ab1bbf101b20550853c5b",
+  "src\\components\\Visuals.tsx": "3de3a3660cf4b497a86ac298ae6170b72cc9722b44995d5b59703bce108403ad",
+  "src\\data\\district.ts": "8f647ac112ae901aa6d9f106153e75fcd5af43891e4aff6d5e09da2f0346107c",
+  "src\\data\\documents.ts": "28abd6973e901794c03a2b55f4bbcbbb646000fb89f43a2790f390cda21fdcde",
+  "src\\main.tsx": "6531bcb6e7b4290d3307cf51dff9a0ae1ece9c9802a4e48fb0e8c13841b13a9d",
+  "src\\scene\\CityScene.tsx": "2d09eb11bd6767a6806ec78fd9a153907102ec34ccc2d98e9e857077b00eb645",
+  "src\\styles.css": "f485bd9bf3fc318e519c745bdcb9954edcc0b47e9c5f325f1e45d86ec887ac8f",
+  "src\\types.ts": "510ed72bf3a02b8057c288e5418d2735245ed50ae73d00aec42269a0a4a6ab4a",
+  "src\\vite-env.d.ts": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5",
+  "tests\\browser-integration.mjs": "e4b6fd3d47879bc4eb48ae63a02d1288a7e126c30a0666cba834109fa327b3c2",
+  "tests\\district.test.ts": "19516447d065b5e0356cdda3d9c6db8d36dad0879ae76468d6ed48eddba3f4fd",
+  "tests\\render-pdfs.py": "cb583976e49779d58da4cf6b4e882c84ae92517cd4af9934ba1fa24c32c1361b",
+  "tests\\visual-review.mjs": "09fc3e7bf53e3bb8e4de744813734b8558eaee5e546103f04e1e0af545704d3b",
+  "package.json": "2fd13f0fc529addc656a95bcf1a865bf31037b6404e9edaaaac61bb6b924d37a",
+  "package-lock.json": "785cf51c9b9b5c91bd786679ed3f1174e365e275675e3b7f2d3df05226dc2f29",
+  "vite.config.ts": "652d703a84b50a23bf6a37bbdffd015549c3b9c05f20f65981cf5668f3943137",
+  "index.html": "5bc361e20db2a09b767de3c832b9d91d087b267d8c72eabc39b6160378132bde",
+  "tsconfig.json": "d8d51513e5201e36a823efd1707c5ccf59ca6babbf05a6899df3864fda5365e6"
+}

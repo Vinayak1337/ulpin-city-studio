@@ -1,0 +1,106 @@
+﻿[
+    {
+        "Path":  "src\\App.tsx",
+        "SHA256":  "3824191CFD2B02513A346E28EBC6C95615903DA07FD39BDAD56BF463B8019558"
+    },
+    {
+        "Path":  "src\\main.tsx",
+        "SHA256":  "87332E4AF34A63C4EB9A3C2F69D78CC0D10D3B5BE43E2E2E726BAE8697D745DB"
+    },
+    {
+        "Path":  "src\\refinements.css",
+        "SHA256":  "A9FAAF3ED081BB9E19DE4814D888CDEC245C3FC3BABD8D4C0E7171CAEFBA8130"
+    },
+    {
+        "Path":  "src\\styles.css",
+        "SHA256":  "F485BD9BF3FC318E519C745BDCB9954EDCC0B47E9C5F325F1E45D86EC887AC8F"
+    },
+    {
+        "Path":  "src\\types.ts",
+        "SHA256":  "D9FA3C9AFFE3E5D0591D362CB4567874611AD5B8DFADDE5963E485CAB3BD91ED"
+    },
+    {
+        "Path":  "src\\vite-env.d.ts",
+        "SHA256":  "65996936FBB042915F7B74A200FCDDE7E410F32A669B1AB9597CFAA4B0FADDB5"
+    },
+    {
+        "Path":  "src\\components\\DialogSection.tsx",
+        "SHA256":  "A116F91DB3D89155A348975552AA83B871807BDF2F2317FC328DC51DDED71D39"
+    },
+    {
+        "Path":  "src\\components\\FloorPlan.tsx",
+        "SHA256":  "2AB30B677B07B3E22A1F5C7DA4E3B13B8AAA80556C40F67A5092B939D44EBA69"
+    },
+    {
+        "Path":  "src\\components\\inspection.css",
+        "SHA256":  "7652BDC729245459C313618FBD87B5232DDF5000862CCB7215D020B720A54081"
+    },
+    {
+        "Path":  "src\\components\\Inspector.tsx",
+        "SHA256":  "73CE94CD7ABBEBD13BF29380C1F612390EA989786AA9CA4BE7E0347E0DFB9BE2"
+    },
+    {
+        "Path":  "src\\components\\RecordModal.tsx",
+        "SHA256":  "859EAEF49CF7C6A0CA87E0D8A436AF5BFC08677897000A678FDA80EAE6A1E25E"
+    },
+    {
+        "Path":  "src\\components\\RegisterOverview.tsx",
+        "SHA256":  "CB818AE5AF5AF87DEEF6AC3FEC2B520B447ED491E1B76CA44FE218D20FEDD241"
+    },
+    {
+        "Path":  "src\\components\\useDialog.ts",
+        "SHA256":  "8954F58A65F0FCCFD9C6FDA4CB6C83839DA5C02548079AF8E58A03CF2B9E69C2"
+    },
+    {
+        "Path":  "src\\components\\UtilitySection.tsx",
+        "SHA256":  "DB6BB36219700B96A240A0C8493D72D0AA17E65F8BB8CC7E472B732F46866944"
+    },
+    {
+        "Path":  "src\\components\\Visuals.tsx",
+        "SHA256":  "DBAFE99846A4AA5F850F98F7C6E0434D53BFE3308A98F80EDBCC0217FB33C958"
+    },
+    {
+        "Path":  "src\\data\\district.ts",
+        "SHA256":  "DCDA11A86DC6E22BE0D1D29EC7B6B3B0EFFB97E18495A15B0DE9BC8D30934111"
+    },
+    {
+        "Path":  "src\\data\\documents.ts",
+        "SHA256":  "14BC049F4EE627B2146474DD783EB846A9D17E6AA2A2D5A9429AEB8426FE986D"
+    },
+    {
+        "Path":  "src\\data\\floorLayout.ts",
+        "SHA256":  "53DF237F946DB03A79A3452B3FA7C752E74BC395F0831D1EE745EC1450473CC1"
+    },
+    {
+        "Path":  "src\\data\\mapScale.ts",
+        "SHA256":  "465F38F09C203E9EE61354469FB388AD694F91A7F9CA5B086CFE04C7BAEA30F9"
+    },
+    {
+        "Path":  "src\\scene\\Appearance.tsx",
+        "SHA256":  "4C65C8D290E30A0BD1B41010236E0ED7C67130517A58716D4D47D42AEE036761"
+    },
+    {
+        "Path":  "src\\scene\\architecture.ts",
+        "SHA256":  "16DD2A3AC8FF5E012CB4A1286B94F19A3F2EEAFCDBE7F4AE9E208046099B657E"
+    },
+    {
+        "Path":  "src\\scene\\CityScene.tsx",
+        "SHA256":  "9673508FE8D7DBDBBB24011154118AAB2AB7E047BEB00BF91B7DD9B3ED16A1FB"
+    },
+    {
+        "Path":  "src\\scene\\FloorInterior.tsx",
+        "SHA256":  "3E21A477F076D30D3BA1622EA75078F07A66586C1A3DE3C7847C7D01E928502C"
+    },
+    {
+        "Path":  "src\\scene\\NavigationControls.tsx",
+        "SHA256":  "4A4FE596696518E9345F040D85DD3028754C06A35C37FA378E85DFB730170923"
+    },
+    {
+        "Path":  "src\\scene\\RegisterModel.tsx",
+        "SHA256":  "FFD3AA5CCD3BBF22D94F2368611CF0A74AB6997531606FE4C4F7133E7B8E2031"
+    },
+    {
+        "Path":  "src\\scene\\UtilityMeasure.tsx",
+        "SHA256":  "FD8B34B51FF089BE8B58159214C32E26A52EC9342F2CED2921AE362CF006C8D7"
+    }
+]

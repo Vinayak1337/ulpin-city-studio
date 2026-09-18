@@ -1,0 +1,241 @@
+{
+  "created": "2026-09-17T20:01:29.616Z",
+  "results": [
+    {
+      "name": "Evidence -> Floor plans",
+      "expected": "Floor plan tab / floor plan document",
+      "actualTab": "Land record",
+      "actualTitle": "Land record & parcel reference"
+    },
+    {
+      "name": "Floors -> Unit 101",
+      "expected": "Unit 101 record in context",
+      "actualTitle": "Building register",
+      "firstUnit": "Unit 401",
+      "activeUnits": 0,
+      "unitSelectionControlVisible": 0
+    },
+    {
+      "name": "Register dialog keyboard focus containment",
+      "focusBefore": {
+        "inside": false,
+        "tag": "BUTTON",
+        "text": "Open register"
+      },
+      "tabSequence": [
+        {
+          "inside": false,
+          "tag": "BUTTON",
+          "text": "Inspect floors"
+        },
+        {
+          "inside": true,
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "inside": true,
+          "tag": "BUTTON",
+          "text": "Floor & occupancy schedule"
+        },
+        {
+          "inside": true,
+          "tag": "BUTTON",
+          "text": "Land & parcel record"
+        },
+        {
+          "inside": true,
+          "tag": "BUTTON",
+          "text": "Illustrative floor plan"
+        },
+        {
+          "inside": true,
+          "tag": "BUTTON",
+          "text": "Occupancy agreement"
+        },
+        {
+          "inside": true,
+          "tag": "BUTTON",
+          "text": "Download complete register"
+        },
+        {
+          "inside": true,
+          "tag": "BUTTON",
+          "text": "Inspect in 3D"
+        }
+      ]
+    },
+    {
+      "name": "Floor layout vs linked room records",
+      "recordSample": "Unit 401\nRented\nTara Khanna\n132 m² · 2 bedrooms · fictional resident\n\n₹12,000 / month\n2026-04-01 → 2027-03-31\n\nInspect rent agreement",
+      "bedroomLabelsInTwoUnitPlan": 2,
+      "drawingViewBox": "0 0 600 430"
+    },
+    {
+      "name": "Map scale after 2D zoom",
+      "details": {
+        "label": "25 m",
+        "barWidth": 140,
+        "cameraZoom": 11.540968049838012
+      }
+    },
+    {
+      "name": "Default UI text dimensions",
+      "samples": [
+        {
+          "selector": ".layer-row",
+          "fontSize": "11px",
+          "color": "rgb(102, 129, 92)"
+        },
+        {
+          "selector": ".property-text strong",
+          "fontSize": "10.5px",
+          "color": "rgb(86, 117, 74)"
+        },
+        {
+          "selector": ".property-text small",
+          "fontSize": "9px",
+          "color": "rgb(156, 174, 141)"
+        },
+        {
+          "selector": ".ins-tabs button",
+          "fontSize": "10px",
+          "color": "rgb(123, 136, 128)"
+        },
+        {
+          "selector": ".dock-cards p",
+          "fontSize": "8px",
+          "color": "rgb(162, 176, 143)"
+        }
+      ]
+    },
+    {
+      "name": "Mobile 390x844 with default inspector",
+      "layout": {
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docWidth": 390,
+        "sidebar": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "display": "none",
+          "visible": false
+        },
+        "map": {
+          "x": 0,
+          "y": 62,
+          "width": 390,
+          "height": 782,
+          "display": "block",
+          "visible": true
+        },
+        "inspector": {
+          "x": 90,
+          "y": 62,
+          "width": 300,
+          "height": 782,
+          "display": "flex",
+          "visible": true
+        },
+        "canvas": {
+          "x": 0,
+          "y": 62,
+          "width": 390,
+          "height": 782,
+          "display": "block",
+          "visible": true
+        },
+        "expandMap": {
+          "rect": {
+            "x": 337.5,
+            "y": 319,
+            "width": 35,
+            "height": 35,
+            "display": "grid",
+            "visible": true
+          },
+          "clickableAtCentre": false,
+          "coveringElement": "H2",
+          "coveringClass": ""
+        },
+        "zoom": {
+          "rect": {
+            "x": 337.5,
+            "y": 201,
+            "width": 35,
+            "height": 35,
+            "display": "grid",
+            "visible": true
+          },
+          "clickableAtCentre": false,
+          "coveringElement": "IMG",
+          "coveringClass": "building-preview"
+        },
+        "layersMenuButtons": []
+      }
+    },
+    {
+      "name": "Mobile 390x844 after closing inspector",
+      "layout": {
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docWidth": 390,
+        "sidebar": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "display": "none",
+          "visible": false
+        },
+        "map": {
+          "x": 0,
+          "y": 62,
+          "width": 390,
+          "height": 782,
+          "display": "block",
+          "visible": true
+        },
+        "inspector": null,
+        "canvas": {
+          "x": 0,
+          "y": 62,
+          "width": 390,
+          "height": 782,
+          "display": "block",
+          "visible": true
+        },
+        "expandMap": {
+          "rect": {
+            "x": 337.5,
+            "y": 319,
+            "width": 35,
+            "height": 35,
+            "display": "grid",
+            "visible": true
+          },
+          "clickableAtCentre": true,
+          "coveringElement": "svg",
+          "coveringClass": {}
+        },
+        "zoom": {
+          "rect": {
+            "x": 337.5,
+            "y": 201,
+            "width": 35,
+            "height": 35,
+            "display": "grid",
+            "visible": true
+          },
+          "clickableAtCentre": true,
+          "coveringElement": "path",
+          "coveringClass": {}
+        },
+        "layersMenuButtons": []
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,12 @@
+{
+  "referenceBuildings": [
+    "BLD-0001",
+    "BLD-0035"
+  ],
+  "equalHeights": true,
+  "observedPixelsPerMetre": 11.95012544220745,
+  "barWidth": 140,
+  "displayedLabel": "25 m",
+  "actualMetresRepresented": 11.715358192435756,
+  "cameraZoom": 11.950125891853034
+}

@@ -1,0 +1,283 @@
+{
+  "created": "2026-09-17T20:00:26.522Z",
+  "results": [
+    {
+      "name": "Mouse: left hold 600 ms, then drag",
+      "before": {
+        "point": {
+          "x": 901.1009588057851,
+          "y": 474.4603696684731
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 4.2 · N 24.9 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "after": {
+        "point": {
+          "x": 901.1009588057851,
+          "y": 474.4603696684731
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 4.2 · N 24.9 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "pixelMovement": 0,
+      "zoomChange": 0,
+      "dragListenerRemovedWhileHeld": true,
+      "removalDelayMs": 234,
+      "diagnosticOnly": false
+    },
+    {
+      "name": "Mouse: immediate sustained left drag",
+      "before": {
+        "point": {
+          "x": 901.1116494837232,
+          "y": 474.47739676842633
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 4.2 · N 25.0 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "after": {
+        "point": {
+          "x": 925.0944006822683,
+          "y": 480.02402881168007
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 1.6 · N 28.2 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "pixelMovement": 24.62,
+      "zoomChange": 0,
+      "dragListenerRemovedWhileHeld": true,
+      "removalDelayMs": 173,
+      "diagnosticOnly": false
+    },
+    {
+      "name": "Mouse: right hold 600 ms, then orbit",
+      "before": {
+        "point": {
+          "x": 901.1536473055307,
+          "y": 474.54428692393157
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 4.2 · N 25.0 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "after": {
+        "point": {
+          "x": 901.1536473055307,
+          "y": 474.54428692393157
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 4.2 · N 25.0 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "pixelMovement": 0,
+      "zoomChange": 0,
+      "dragListenerRemovedWhileHeld": true,
+      "removalDelayMs": 178,
+      "diagnosticOnly": false
+    },
+    {
+      "name": "Wheel zoom on fresh page",
+      "before": {
+        "point": {
+          "x": 901.1211545648997,
+          "y": 474.49253556207395
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 4.2 · N 25.0 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "after": {
+        "point": {
+          "x": 906.7854258577893,
+          "y": 472.9131953284989
+        },
+        "zoom": 6.421052631578947,
+        "status": "25 m\n\nLocal E 4.2 · N 25.0 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "pixelMovement": 5.88,
+      "zoomChange": 0.32105,
+      "dragListenerRemovedWhileHeld": false,
+      "removalDelayMs": null
+    },
+    {
+      "name": "Wheel zoom after interrupted held drag",
+      "before": {
+        "point": {
+          "x": 906.7854258577893,
+          "y": 472.9131953284989
+        },
+        "zoom": 6.421052631578947,
+        "status": "25 m\n\nLocal E 4.2 · N 25.0 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "after": {
+        "point": {
+          "x": 906.7854258577893,
+          "y": 472.9131953284989
+        },
+        "zoom": 6.421052631578947,
+        "status": "25 m\n\nLocal E 4.2 · N 25.0 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "pixelMovement": 0,
+      "zoomChange": 0,
+      "dragListenerRemovedWhileHeld": true,
+      "removalDelayMs": 337
+    },
+    {
+      "name": "Isolation A/B: same held drag with ONLY in-memory listener removal deferred",
+      "before": {
+        "point": {
+          "x": 901.1249703306366,
+          "y": 474.4986129525798
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 4.2 · N 25.0 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "after": {
+        "point": {
+          "x": 1059.7044421124037,
+          "y": 511.17422086366594
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E -13.0 · N 46.5 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "pixelMovement": 162.77,
+      "zoomChange": 0,
+      "dragListenerRemovedWhileHeld": false,
+      "removalDelayMs": null,
+      "diagnosticOnly": true
+    },
+    {
+      "name": "Touch: one-finger held pan",
+      "before": {
+        "point": {
+          "x": 901.1293739419355,
+          "y": 474.50562660785727
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 4.2 · N 25.0 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "after": {
+        "point": {
+          "x": 901.1293739419355,
+          "y": 474.50562660785727
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 4.2 · N 25.0 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "pixelMovement": 0,
+      "zoomChange": 0,
+      "dragListenerRemovedWhileHeld": true,
+      "removalDelayMs": 137,
+      "touchMethod": "Chrome DevTools touch emulation; not physical device",
+      "diagnosticOnly": false
+    },
+    {
+      "name": "Touch: two-finger pinch",
+      "before": {
+        "point": {
+          "x": 901.1006332676493,
+          "y": 474.45985118214236
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 4.2 · N 24.9 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "after": {
+        "point": {
+          "x": 901.1006332676493,
+          "y": 474.45985118214236
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 4.2 · N 24.9 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "pixelMovement": 0,
+      "zoomChange": 0,
+      "dragListenerRemovedWhileHeld": true,
+      "removalDelayMs": 121,
+      "touchMethod": "Chrome DevTools touch emulation; not physical device",
+      "diagnosticOnly": false
+    },
+    {
+      "name": "Isolation A/B: one-finger pan with ONLY in-memory listener removal deferred",
+      "before": {
+        "point": {
+          "x": 901.1131149450789,
+          "y": 474.47973081656875
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 4.2 · N 25.0 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "after": {
+        "point": {
+          "x": 1019.468406208146,
+          "y": 501.85245572096426
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E -8.6 · N 41.0 | Synthetic data | 3D scene",
+        "selected": "11007500003527",
+        "mode": "3D"
+      },
+      "pixelMovement": 121.48,
+      "zoomChange": 0,
+      "dragListenerRemovedWhileHeld": false,
+      "removalDelayMs": null,
+      "touchMethod": "Chrome DevTools touch emulation; not physical device",
+      "diagnosticOnly": true
+    },
+    {
+      "name": "Select property while in 2D",
+      "before": {
+        "point": {
+          "x": 897.2219843105325,
+          "y": 536.2929399575652
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 4.2 · N 25.0 | Synthetic data | Orthographic plan",
+        "selected": "11007500003527",
+        "mode": "2D"
+      },
+      "after": {
+        "point": {
+          "x": 796.9755558270957,
+          "y": 531.3628101231565
+        },
+        "zoom": 6.1,
+        "status": "25 m\n\nLocal E 26.6 · N 29.2 | Synthetic data | Orthographic plan",
+        "selected": "11007510000414",
+        "mode": "2D"
+      }
+    }
+  ],
+  "errors": [],
+  "applicationSourceModified": []
+}

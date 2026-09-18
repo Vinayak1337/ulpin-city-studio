@@ -1,0 +1,13 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.log
+*.tsbuildinfo
+.env
+.qa-python/
+qa/*.pdf
+qa/*.json
+qa/*.geojson
+qa/*.png
+qa/pdf-renders/

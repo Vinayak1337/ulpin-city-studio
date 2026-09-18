@@ -1,0 +1,58 @@
+[
+  {
+    "file": "demo-aerial-overview.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "image": "qa\\improvements-20260918\\pdf-renders\\demo-aerial-overview-1.png",
+        "text_blocks": 18,
+        "synthetic_disclaimer": true
+      }
+    ]
+  },
+  {
+    "file": "demo-building-register.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "image": "qa\\improvements-20260918\\pdf-renders\\demo-building-register-1.png",
+        "text_blocks": 27,
+        "synthetic_disclaimer": true
+      },
+      {
+        "page": 2,
+        "image": "qa\\improvements-20260918\\pdf-renders\\demo-building-register-2.png",
+        "text_blocks": 16,
+        "synthetic_disclaimer": true
+      }
+    ]
+  },
+  {
+    "file": "demo-floor-plan.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "image": "qa\\improvements-20260918\\pdf-renders\\demo-floor-plan-1.png",
+        "text_blocks": 14,
+        "synthetic_disclaimer": true
+      },
+      {
+        "page": 2,
+        "image": "qa\\improvements-20260918\\pdf-renders\\demo-floor-plan-2.png",
+        "text_blocks": 16,
+        "synthetic_disclaimer": true
+      }
+    ]
+  },
+  {
+    "file": "demo-rent-agreement.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "image": "qa\\improvements-20260918\\pdf-renders\\demo-rent-agreement-1.png",
+        "text_blocks": 20,
+        "synthetic_disclaimer": true
+      }
+    ]
+  }
+]
