@@ -1,0 +1,10 @@
+.git/
+.qa-python/
+dist/
+node_modules/
+qa/
+tests/
+*.log
+*.tsbuildinfo
+DESIGN.md
+QA.md

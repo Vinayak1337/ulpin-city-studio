@@ -11,3 +11,6 @@ qa/*.json
 qa/*.geojson
 qa/*.png
 qa/pdf-renders/
+
+.vercel
+.env*
